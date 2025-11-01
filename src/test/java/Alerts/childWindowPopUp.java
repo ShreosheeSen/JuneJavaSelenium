@@ -18,7 +18,7 @@ public class childWindowPopUp {
         WebDriver driver = new ChromeDriver();
 		driver.get("https://skpatro.github.io/demo/links");
 		driver.manage().window().maximize();
-		
+		System.out.println("maximizing browser");
 		driver.findElement(By.name("NewWindow")).click();
 		
 		Set<String> Allwindows =driver.getWindowHandles();
