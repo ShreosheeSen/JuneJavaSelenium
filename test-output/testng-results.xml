@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-04T08:49:34 IST" name="Default suite" finished-at="2025-10-04T08:49:34 IST" duration-ms="220">
+    <groups>
+    </groups>
+    <test started-at="2025-10-04T08:49:34 IST" name="Default test" finished-at="2025-10-04T08:49:34 IST" duration-ms="220">
+      <class name="TestNGUse.NewTest">
+        <test-method signature="f()[pri:0, instance:TestNGUse.NewTest@235834f2]" started-at="2025-10-04T08:49:34 IST" name="f" finished-at="2025-10-04T08:49:34 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- TestNGUse.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
