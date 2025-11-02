@@ -23,6 +23,7 @@ public class childWindowPopUp {
 		
 		Set<String> Allwindows =driver.getWindowHandles();
 		System.out.println("Printing all windows  :"+ Allwindows);
+		System.out.println("This is new line added");
 		Iterator<String> it= Allwindows.iterator();
 		String mainpage = it.next();
 		String Childpage = it.next();
